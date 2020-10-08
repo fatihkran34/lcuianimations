@@ -12,7 +12,7 @@ Note: If you want to use fade fx, add canvas group to the object.
 
 II.Part Progressor
 
-Usage: Create an empty object and add Progressor script to it. Then/n
-  To use Filled Image as progressor, add ImageProgressorTarget /n
-  To use Animator as progressor, add AnimatorProgressorTarget /n
+Usage: Create an empty object and add Progressor script to it. Then\
+  To use Filled Image as progressor, add ImageProgressorTarget \
+  To use Animator as progressor, add AnimatorProgressorTarget \
 to objects you wanted. Using SetValue(float) will animate. 
