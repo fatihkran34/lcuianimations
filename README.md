@@ -1,6 +1,4 @@
-# lcuianimations
-
-ANIMATED UI
+# ANIMATED UI
 
 Simple animated ui extension. 
 
